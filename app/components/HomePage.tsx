@@ -551,7 +551,7 @@ export default function HomePage() {
           Let&apos;s work together.
         </div>
         <div style={{ display: "flex", gap: 10, flexWrap: "wrap" }}>
-          <a href="https://linkedin.com" target="_blank" rel="noreferrer" style={{
+          <a href="https://www.linkedin.com/in/jihoo-yun-982006326/" target="_blank" rel="noreferrer" style={{
             fontSize: 11, color: "rgba(255,255,255,0.5)",
             border: "0.5px solid rgba(255,255,255,0.12)",
             padding: "8px 16px", borderRadius: 20, textDecoration: "none",
